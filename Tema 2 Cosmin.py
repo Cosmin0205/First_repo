@@ -218,7 +218,7 @@ X, y, z - laturile unui triunghi.
 #
 # random = random.randint(1,6)
 # dice_roll = int(input('Introduceti un numar de la 1 la 6: '))
-#
+
 # if random > dice_roll and 6>=dice_roll>=1:
 #     print(f'Ai pierdut. Ai ales un numar mai mic. Ai ales {dice_roll} dar a fost {random}')
 # elif random < dice_roll and 6>=dice_roll>=1:

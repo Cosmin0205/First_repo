@@ -115,7 +115,7 @@
 # print(angajatul_meu.salariu_anual())
 # print(angajatul_meu.marire_salariu(int(input('introdu marirea de salariu:'))))
 #
-#
+
 # # 4.Clasa Cont
 # # Atribute: iban, titular_cont, sold
 # # Constructor pentru toate atributele

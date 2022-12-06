@@ -122,7 +122,7 @@
 #          echipaB.append((lista[i]))
 # print(echipaA)
 # print(echipaB)
-#
+
 # '''
 # string = 'abcdefghiklmnopqrstz'
 # lista = [i for i in string]

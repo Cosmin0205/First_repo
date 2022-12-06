@@ -34,4 +34,4 @@ propozitie = 'pentru a returna ultima litera'
 # propozitie2 = int(input('aceasta este varsta:'))
 # print(type(propozitie2))
 
-print(len(propozitie)-1)
+#print(len(propozitie)-1)

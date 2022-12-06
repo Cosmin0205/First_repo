@@ -150,7 +150,7 @@ print(f'Cel mai mare nr este {nr_mare}')
 # ● Dacă numărul e pozitiv, înlocuieste-l cu valoarea lui negativă.
 # Ex: dacă e 3, să devină -3
 # ● Afișază noua listă.
-
+#
 numere = [5, 7, 3, 9, 3, 3, 1, 0, -4, 3]
 negativ = []
 for i in numere:

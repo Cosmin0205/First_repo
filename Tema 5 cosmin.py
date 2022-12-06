@@ -146,7 +146,7 @@ def mare(a, b):
 
 
 mare(x, y)
-
+#
 # 10. Funcție care primește un număr și un set de numere.
 # ● Printeaza ‘am adaugat numărul nou în set’ + returnează True
 # ● Printeaza ‘nu am adaugat numărul în set. Acesta există deja’ +

@@ -39,7 +39,7 @@
 #     def invata(self):
 #         print('eu invat it')
 #
-#
+
 # class elev_absolvent(elev):
 #     def __init__(self, inaltime, greutate, culoare_ochi,clasa):
 #         super().__init__(inaltime, greutate, culoare_ochi,clasa)

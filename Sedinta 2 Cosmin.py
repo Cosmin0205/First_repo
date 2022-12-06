@@ -5,7 +5,7 @@
 #     print('dam mai tare')
 #     print('fredonam')
 #     print('oprim radio')
-#
+
 # #if else
 # #daca numarul este par printam acest lucru
 # #altfel printam impar

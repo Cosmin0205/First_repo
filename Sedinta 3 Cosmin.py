@@ -7,7 +7,7 @@
 
 #variabila2 = (variabila + (1, 2, 3, 4, 5,))
 #print(variabila2)
-
+#
 #variabila2 = variabila.count
 #print(variabila2)
 

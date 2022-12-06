@@ -7,7 +7,7 @@ class Masina:
     def putere(self):
         if self.tractiune == 4:
             print('puterea creste cu 50 cp')
-
+####
 object = Masina()
 object.tractiune = 4
 object.putere()

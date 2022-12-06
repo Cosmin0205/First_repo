@@ -19,7 +19,7 @@ class FormaGeometrica():
 # INHERITANCE
 # Clasa Pătrat - moștenește FormaGeometrica
 # constructor pentru latură
-
+#
 # ENCAPSULATION
 # latura este proprietate privată
 # Implementează getter, setter, deleter pentru latură

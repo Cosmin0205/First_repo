@@ -72,6 +72,7 @@ x, y = (str(input('Introduceti o propozitie din 2 cuvinte: '))).split()
 print(f' x = {x} \n y = {y}')
 
 # #ex 4. Exercițiu:
+
 # - citește un string de la tastatură (ex: alabala portocala);
 # - salvează primul caracter într-o variabilă - indiferent care este el, încearcă
 # cu 2 stringuri diferite;

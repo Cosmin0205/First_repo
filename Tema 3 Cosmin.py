@@ -95,7 +95,7 @@ print(f'Nota actualizata:{nota},{dict1}')
 # ● Căuta o funcție care să îl șteargă
 # ● Vine un coleg nou. Adaugă Ionică, cu nota 9
 # ● Printează noii elevi
-
+#
 dict1.pop('Dorel')
 dict1.update({'Ionica': '9'}) #sau dict1['Ionica']= 9
 print(dict1)

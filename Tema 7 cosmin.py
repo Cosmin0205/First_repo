@@ -15,6 +15,7 @@ class FormaGeometrica():
 
     def descrie(self):
         print('Cel mai probabil am colturi')
+
 # INHERITANCE
 # Clasa Pătrat - moștenește FormaGeometrica
 # constructor pentru latură
